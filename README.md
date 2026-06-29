@@ -3,11 +3,8 @@
 </h1>
 <h3 align="center">Fullstack Developer & AI Engineer</h3>
 
-<h3 align="left">💀 About Me</h3>
+<h3 align="left">About Me</h3>
 <p align="left">
   17 y/o | Russia<br>
   Fullstack Dev + AI Engineer<br>
-  Anti-corporate. Anti-bloat. Pro-freedom.<br>
-  I build what I need. Nothing more, nothing less.<br>
-  No Microsoft. No Oracle. No Adobe. No thanks.
 </p>
